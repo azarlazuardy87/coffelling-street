@@ -12,7 +12,7 @@ Kami menyajikan “Coffeeling Street”, dengan memiliki dua opsi yaitu opsi per
 # Features
 1. Themes dan Plugin
     - Bootstrap untuk kebutuhan pembuatan tampilan desain visual dari aplikasi web atau situs website
-    - CSS untuk merubah style default dari bootstrap menjadi cirikhas website kami sendri
+    - CSS untuk merubah style default dari bootstrap menjadi cirikhas website kami sendiri
 2. deploy
     - kami deploy program menggunakan Heroku
     - Website dapat diakses menggunakan tautan ini https://coffeling-street.herokuapp.com/
@@ -20,9 +20,9 @@ Kami menyajikan “Coffeeling Street”, dengan memiliki dua opsi yaitu opsi per
 # Copyright
 - Kewirausahaan Berbasis Teknologi
 - Nama Tim :
-      Sri Juniyanti (201710370311085)
-      Azar Lazuardy Kuncoro (201910370311291)
-      Rafidatun Najwa (202010770311022)
+      - Sri Juniyanti (201710370311085)
+      - Azar Lazuardy Kuncoro (201910370311291)
+      - Rafidatun Najwa (202010770311022)
 - Nama Pembimbing : 
-      Syaifudin,.S.kom,.M.kom
+      - Syaifudin,.S.kom,.M.kom
 - Universitas Muhammadiyah Malang
