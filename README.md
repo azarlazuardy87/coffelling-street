@@ -18,11 +18,11 @@ Kami menyajikan “Coffeeling Street”, dengan memiliki dua opsi yaitu opsi per
     - Website dapat diakses menggunakan tautan ini https://coffeling-street.herokuapp.com/
  
 # Copyright
-- Kewirausahaan Berbasis Teknologi
-- Nama Tim :
-- Sri Juniyanti (201710370311085)
-Azar Lazuardy Kuncoro (201910370311291)
-Rafidatun Najwa (202010770311022)
-- Nama Pembimbing : 
-Syaifudin,.S.kom,.M.kom
-- Universitas Muhammadiyah Malang
+1. Kewirausahaan Berbasis Teknologi
+2. Nama Tim :
+        - Sri Juniyanti (201710370311085)
+        - Azar Lazuardy Kuncoro (201910370311291)
+        - Rafidatun Najwa (202010770311022)
+3. Nama Pembimbing : 
+        - Syaifudin,.S.kom,.M.kom.
+4. Universitas Muhammadiyah Malang
