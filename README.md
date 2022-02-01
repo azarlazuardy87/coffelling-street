@@ -20,9 +20,9 @@ Kami menyajikan “Coffeeling Street”, dengan memiliki dua opsi yaitu opsi per
 # Copyright
 - Kewirausahaan Berbasis Teknologi
 - Nama Tim :
-      1. Sri Juniyanti (201710370311085)
-      2. Azar Lazuardy Kuncoro (201910370311291)
-      3. Rafidatun Najwa (202010770311022)
+- Sri Juniyanti (201710370311085)
+- Azar Lazuardy Kuncoro (201910370311291)
+- Rafidatun Najwa (202010770311022)
 - Nama Pembimbing : 
-      - Syaifudin,.S.kom,.M.kom
+- Syaifudin,.S.kom,.M.kom
 - Universitas Muhammadiyah Malang
